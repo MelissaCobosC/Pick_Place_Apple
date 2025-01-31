@@ -1,0 +1,37 @@
+# CMake generated Testfile for 
+# Source directory: /home/sebalchi/catkin_ws/src
+# Build directory: /home/sebalchi/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("project_g1/src/gazebo_ros_pkgs/gazebo_dev")
+subdirs("project_g1/src/gazebo_ros_pkgs/gazebo_ros_pkgs")
+subdirs("project_g1/src/universal_robot/universal_robots")
+subdirs("project_g1/src/ur5_robotiq_camera_moveit_config")
+subdirs("project_g1/src/general-message-pkgs/path_navigation_msgs")
+subdirs("project_g1/src/gazebo_ros_pkgs/gazebo_msgs")
+subdirs("project_g1/src/general-message-pkgs/object_msgs")
+subdirs("project_g1/src/gazebo_ros_pkgs/gazebo_ros")
+subdirs("project_g1/src/gazebo-pkgs/gazebo_test_tools")
+subdirs("project_g1/src/gazebo-pkgs/gazebo_version_helpers")
+subdirs("project_g1/src/gazebo-pkgs/gazebo_grasp_plugin")
+subdirs("project_g1/src/gazebo-pkgs/gazebo_grasp_plugin_ros")
+subdirs("project_g1/src/gazebo-pkgs/gazebo_world_plugin_loader")
+subdirs("project_g1/src/general-message-pkgs/object_msgs_tools")
+subdirs("project_g1/src/gazebo-pkgs/gazebo_state_plugins")
+subdirs("project_g1/src/roboticsgroup_upatras_gazebo_plugins")
+subdirs("project_g1/src/universal_robot/ur5_moveit_config")
+subdirs("project_g1/src/universal_robot/ur_description")
+subdirs("project_g1/src/universal_robot/ur_gazebo")
+subdirs("project_g1/src/custom_robot_description")
+subdirs("project_g1/src/gazebo_ros_pkgs/gazebo_plugins")
+subdirs("project_g1/src/ind_environment")
+subdirs("project_g1/src/gazebo_ros_pkgs/gazebo_ros_control")
+subdirs("project_g1/src/meshes_robot_description")
+subdirs("project_g1/src/custom_robot_gazebo")
+subdirs("project_g1/src/ur5_description")
+subdirs("project_g1/src/ur5_gazebo")
+subdirs("project_g1/src/universal_robot/ur_kinematics")
+subdirs("project_g1/src/robot_inverse_kinematics")
+subdirs("project_g1/src/robotiq_description")
